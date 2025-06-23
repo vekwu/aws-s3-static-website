@@ -20,7 +20,7 @@ This is my first AWS cloud project. I used **Amazon S3** to host a simple static
 ---
 
 ## 🔗 Live Website
-[View it here]http://s3-webhosting-cloud.s3-website-us-east-1.amazonaws.com
+View it here---- http://s3-webhosting-cloud.s3-website-us-east-1.amazonaws.com
 
 ---
 
